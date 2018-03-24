@@ -1804,43 +1804,27 @@ body {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
 }
-.cid-qKWX88r9qv {
+.cid-qNfevQER3o {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #f9f9f9;
+  background: #ffffff;
+  background: linear-gradient(0deg, #149dcc, #ffffff);
+}
+.cid-qNfevQER3o .image-block {
+  margin: auto;
+}
+.cid-qNfevQER3o figcaption {
   position: relative;
 }
-.cid-qKWX88r9qv .card {
-  border-radius: 0px;
-  margin-bottom: -1px;
+.cid-qNfevQER3o figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
 }
-.cid-qKWX88r9qv .card .card-header {
-  border-radius: 0px;
-  border: 0px;
-  padding: 0;
-}
-.cid-qKWX88r9qv .card .card-header a.panel-title {
-  margin-bottom: 0;
-  font-style: normal;
-  font-weight: 500;
-  display: block;
-  text-decoration: none !important;
-  margin-top: -1px;
-  line-height: normal;
-}
-.cid-qKWX88r9qv .card .card-header a.panel-title:focus {
-  text-decoration: none !important;
-}
-.cid-qKWX88r9qv .card .card-header a.panel-title h4 {
-  padding: 1.3rem 2rem;
-  border: 1px solid #dfdfdf;
-  margin-bottom: 0;
-}
-.cid-qKWX88r9qv .card .card-header a.panel-title h4 .sign {
-  padding-right: 1rem;
-}
-.cid-qKWX88r9qv .card .panel-body {
-  color: #767676;
+@media (max-width: 768px) {
+  .cid-qNfevQER3o .image-block {
+    width: 100% !important;
+  }
 }
 .cid-qLdUeQg027 {
   padding-top: 90px;
